@@ -1,0 +1,38 @@
+Hello Sir,
+
+1>	You need to install python 3.7 in your machine.
+
+2>	The following python libraries you need to install,which can be installed with the following command.
+
+	'pip install <name of the library>'
+
+	--Python Libraries--
+	- scrapy
+	- pymysql
+	- fake_useragent
+
+3>	You can change the database credentials in the following file.
+
+ 	'\google_search\google_search\database_config.py
+
+4>	Now you need to open the directory '\google_search\google_search\spiders' then you can run the spider using following command.
+
+	‘scrapy crawl search_result’
+
+5>	Put Your Keyword.txt file in ‘\google_search\google_search\spiders' directory
+
+6>	Output will be stored in the MySQL Database in different Table which are:
+
+	Master Table: master_table
+	Featured Snippet:featuresnippet_table
+	Image Pack:imagepack_table
+	Knowledge Card: knowledgecard_table
+	Local Packs: localpack_table
+	Main Links: mainlinks_table
+	People Also Ask: peoplealsoask_table
+	Reviews Links: reviewlink_table
+	Top Stories: topstory_table
+	Twitter Result: twitterresult_table
+	Video Pack: videopack_table
+
+*All data are found in respected tables*	

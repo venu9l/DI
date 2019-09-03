@@ -1,0 +1,23 @@
+Hello,
+
+1> Domain crawler works only with the Linux machine.
+
+2> You need to install python3.7 in your system
+
+3> Following are some of the libraries which must be installed before running the scripts
+
+    hashlib
+    tldextract
+    pymysql
+    w3lib
+
+4> You have to install docker in your Linux machine, Instructions for that are given in this link
+    "https://linuxize.com/post/how-to-install-and-use-docker-on-ubuntu-18-04/"
+    
+5> After Installing the docker you have to allow it the sudo access group. You can do it by following the instructions in the following links
+    "https://github.com/sindresorhus/guides/blob/master/docker-without-sudo.md"
+
+6> After that you have to install sitespeed.io image into the docker, you can do it by following the instructions.
+    "https://www.sitespeed.io/documentation/sitespeed.io/installation/"
+
+Now you are able to run the scripts

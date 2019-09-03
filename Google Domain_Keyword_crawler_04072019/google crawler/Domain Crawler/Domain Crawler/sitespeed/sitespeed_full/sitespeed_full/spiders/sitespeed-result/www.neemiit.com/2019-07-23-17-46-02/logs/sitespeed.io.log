@@ -1,0 +1,5 @@
+[2019-07-23 17:46:02] INFO: [sitespeedio] Versions OS: linux 4.9.125-linuxkit nodejs: v10.13.0 sitespeed.io: 9.4.0 browsertime: 5.3.0 coach: 3.6.0
+[2019-07-23 17:46:02] INFO: [browsertime] Running tests using Chrome - 1 iteration(s)
+[2019-07-23 17:46:04] INFO: [browsertime.command.measure] Testing url http://www.neemiit.com/app.html iteration 1
+[2019-07-23 17:46:30] INFO: [browsertime] http://www.neemiit.com/app.html 26 requests, 516.31 kb, backEndTime: 3.38s, firstPaint: 4.32s, firstVisualChange: 4.33s, DOMContentLoaded: 4.33s, Load: 4.81s, speedIndex: 4731, visualComplete85: 4.90s, lastVisualChange: 4.90s, rumSpeedIndex: 4748
+[2019-07-23 17:46:34] INFO: [sitespeedio.plugin.html] HTML stored in /sitespeed.io/sitespeed-result/www.neemiit.com/2019-07-23-17-46-02

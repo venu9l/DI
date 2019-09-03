@@ -1,0 +1,15 @@
+Python 2.7
+ 
+
+Required Modules 
+
+
+1. Beautifulsoup4
+
+2. Lxml
+
+3. MySql-python or mysqlclient
+
+4. Requests (if windows need to install Microsoft visual c++ 9.0 for python) 
+
+5. Readability module (py-readability-metrics)
